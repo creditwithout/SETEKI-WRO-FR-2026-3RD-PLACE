@@ -204,7 +204,7 @@ You can also visualize all our 3D Model for the 1.1, 2.14 and the National versi
 `Why we use this mechanism?`
 - Because using this mechanism mainly helps us when leaving and parking in the parking lot, since when the robot without differential makes a turn, the wheels will be turning at the same speed, which does not help us since obviously in a turn one wheel will have to travel further than the other, so when the robot has to turn with the differential, it will avoid this skidding that can cause our  old pinion and axle system.
 
-- Some disadvantages are that with the 2.14 robot after the second regional, that well-optimized robot with an 800 RPM motor was doing it in `25 seconds`, but the transmission of speed when there are more gears will cause our robot to go slower, so now we are doing the first round in `42 seconds`.
+- Some disadvantages are that with the 2.14 robot after the second regional, that well-optimized robot with an 800 RPM motor was doing it in `20 seconds`, but the transmission of speed when there are more gears will cause our robot to go slower, so now we are doing the first round in `42 seconds`.
 
 > [!NOTE]
 > [in this folder here](https://github.com/creditwithout/-/tree/main/3D%20Models/3.1%20(National)) You can watch assembly animations of our car.
