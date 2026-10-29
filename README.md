@@ -145,7 +145,7 @@ When we chose this name, it was because we are people who are using the possible
 ### Anthony Gomez
 | Name | Description & Rol | GIF | Age | IG | More |
 |:---|:---|:---|:---|:---|:---|
-| Anthony Bruce Gomez Arjona  | He is the nerdiest of the three, he is the scientist and physicist of the team, he is the developer of the logic and he is in charge of the programming, talk to him about jurasic park and you will have all his attention. | <img src="https://github.com/user-attachments/assets/1076f695-bbae-4e03-aa04-83bee9c2621d" alt="Texto descriptivo" width="150"/> | 17 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anthonyg.exe/) | [More about him](https://github.com/creditwithout/-/tree/main/team%20photos/members/Anthony%20Bruce)
+| Anthony Bruce Gomez Arjona  | He is the nerdiest of the three, he is the scientist and physicist of the team, he is the developer of the logic and he is in charge of the programming, talk to him about jurasic park and you will have all his attention. | <img src="https://github.com/user-attachments/assets/1076f695-bbae-4e03-aa04-83bee9c2621d" alt="Texto descriptivo" width="150"/> | 17 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anthonyg.ino/) | [More about him](https://github.com/creditwithout/-/tree/main/team%20photos/members/Anthony%20Bruce)
 
 ### Edgar Ruiz
 | Name | Description & Rol | GIF | Age | IG | More |
